@@ -1,12 +1,11 @@
-# 🎨 Emoji Mood Board
+# 🎲 Flip Facts Fun
 
-A fun and interactive web app that lets kids drag and drop emojis to create their own mood boards!
+A playful website where kids can flip cards to reveal interesting facts! Each card shows a different topic like space, animals, and science.
 
 ## 🌟 Features
-- Emoji picker panel with popular emojis
-- Drag-and-drop functionality onto a canvas
-- Clear/reset canvas button
-- Colorful, kid-friendly UI
+- Colorful flip cards with emoji icons
+- Smooth flip animation using CSS 3D transforms
+- JavaScript cycles through a new fact each time a card is flipped
 
 ## 🚀 Built With
 - HTML
@@ -14,17 +13,10 @@ A fun and interactive web app that lets kids drag and drop emojis to create thei
 - JavaScript
 
 ## 🎯 Target Age
-Designed for kids aged **8–14** to explore creativity and learn basic interactivity in web apps.
+Great for kids aged **8–14** who love learning fun facts.
 
 ## 💡 Try It Live
 [🔗 Demo on GitHub Codespaces](#) *(Add link once deployed)*
 
-## 📸 Preview
-![emoji-board-preview](preview.png)
-
 ## 🧠 Powered by Codex Agent
 This project was built with help from OpenAI Codex for quick prototyping and learning!
-
----
-
-Want a starter code package too? I can generate the initial files (`index.html`, `style.css`, `script.js`) and a `preview.png` placeholder if you’d like.
