@@ -1,6 +1,7 @@
 # 📚 Fun Fact Flipper
 
-A playful and educational web app where kids can flip colorful cards to discover cool and surprising facts! Great for sparking curiosity and learning something new every day.
+A playful website where kids can flip cards to reveal interesting facts! Cards cover ten topics including space, animals, science, history, technology, food, sports, geography, music, and weather.
+
 
 ## 🌟 Features
 
@@ -29,11 +30,7 @@ Designed especially for kids aged **8–14** to enjoy learning in a fun and inte
 
 ## 🚀 Try It Live
 
-[🔗 Launch Demo on GitHub Codespaces](#) *(Add link after publishing)*
-
-## 📸 Preview
-
-![fun-fact-flipper-preview](preview.png)
+https://sonu84it.github.io/fun-fact-flipper/
 
 ## 💡 Example Fun Facts
 
