@@ -1,6 +1,6 @@
 # 🎲 Flip Facts Fun
 
-A playful website where kids can flip cards to reveal interesting facts! Each card shows a different topic like space, animals, and science.
+A playful website where kids can flip cards to reveal interesting facts! Cards cover ten topics including space, animals, science, history, technology, food, sports, geography, music, and weather.
 
 ## 🌟 Features
 - Colorful flip cards with emoji icons
